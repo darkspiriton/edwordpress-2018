@@ -54,3 +54,32 @@
 * [MAMP](https://www.mamp.info/en/)
 * [WAMP](http://www.wampserver.com/en/)
 * [XAMPP](https://www.apachefriends.org/es/index.html)
+
+##   Clase 2: Generación de Contenido
+
+### Taxonomía básica
+
+Es la forma en como WordPress estructura el contenido de nuestro sitio y lo hace a través de:
+
+* Categorías **(Clasifican el contenido)**.
+* Etiquetas **(Palabras clave, para búsquedas internas)**.
+* Entradas **(Contenido dinámico)**.
+* Páginas **(Contenido estático)**.
+
+#### Categorías
+
+Son la tabla de contenidos del sitio web. Son utilizadas para agrupar los contenidos y mantener una clasificación. Deben ser la base de la organización ya que conservan un orden jerárquico, y podemos generar subcategorías.
+
+#### Etiquetas
+
+Se utilizan como microdatos que describen detalles específicos del contenido. Sirven como keywords para el SEO de nuestras publicaciones.
+
+#### Entradas
+
+Es el contenido final de nuestro sitio, pueden tener asociadas más de una categoría, si no le especificamos una, se guardaran como parte de la categoría que trae WP por defecto "Sin Categoría". Podemos agregarles tantas etiquetas como sean necesarias.
+
+#### Páginas
+
+Son contenidos que difícilmente van a cambiar, por ejemplo la sección de contacto o acerca, no se pueden asociar a categorías ni a etiquetas.
+
+### [Embeds (Objetos Incrustados)](https://codex.wordpress.org/Embeds).
