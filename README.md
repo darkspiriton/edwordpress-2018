@@ -83,3 +83,10 @@ Es el contenido final de nuestro sitio, pueden tener asociadas más de una categ
 Son contenidos que difícilmente van a cambiar, por ejemplo la sección de contacto o acerca, no se pueden asociar a categorías ni a etiquetas.
 
 ### [Embeds (Objetos Incrustados)](https://codex.wordpress.org/Embeds).
+
+## Clase 3: Configuración y Personalización
+
+* [Servicios de Actualización](https://codex.wordpress.org/Update_Services).
+* [Roles y Capacidades](https://codex.wordpress.org/Roles_and_Capabilities).
+* [Gravatar](http://es.gravatar.com/).
+* [Temas](https://wordpress.org/themes/).
