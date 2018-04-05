@@ -90,3 +90,162 @@ Son contenidos que difícilmente van a cambiar, por ejemplo la sección de conta
 * [Roles y Capacidades](https://codex.wordpress.org/Roles_and_Capabilities).
 * [Gravatar](http://es.gravatar.com/).
 * [Temas](https://wordpress.org/themes/).
+
+## Clase 4: Componentes
+
+### [Plugins](https://wordpress.org/plugins/).
+
+#### Builders:
+
+* [Elementor](https://wordpress.org/plugins/elementor/).
+* [Divi](https://www.elegantthemes.com/gallery/divi/).
+* [Page Builder](https://wordpress.org/plugins/siteorigin-panels/).
+
+#### Formularios
+
+* [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
+* [Rainmaker Form – Best Forms Plugin on WP](https://wordpress.org/plugins/icegram-rainmaker/)
+
+#### Optimización de Imágenes
+
+* [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/)
+* [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/)
+* [Compress JPEG & PNG images](https://wordpress.org/plugins/tiny-compress-images/)
+* [Manual Image Crop](https://wordpress.org/plugins/manual-image-crop/)
+
+#### Galerías y Sliders
+
+* [HUGE-IT Gallery](https://huge-it.com/wordpress-gallery/)
+* [WP Slick Slider and Image Carousel](https://wordpress.org/plugins/wp-slick-slider-and-image-carousel/)
+* [Slider WD](https://wordpress.org/plugins/slider-wd/)
+* [Post Slider](https://wordpress.org/plugins/post-slider-wd/)
+* [Lightbox Pop](https://wordpress.org/plugins/lightbox-pop/)
+
+#### Responsive Design
+
+##### Theme Switchers
+
+* [Any Mobile Theme Switcher](https://wordpress.org/plugins/any-mobile-theme-switcher/)
+* [User Agent Themes Switcher](https://wordpress.org/plugins/useragent-themes-switcher/)
+
+##### Multimedia
+
+* [Responsify WP](https://es-mx.wordpress.org/plugins/responsify-wp/)
+* [RICG Responsive Images](https://wordpress.org/plugins/ricg-responsive-images/)
+* [Advanced Responsive Video Embedder](https://wordpress.org/plugins/advanced-responsive-video-embedder/)
+
+#### Categorias y Entradas
+
+* [No Category Base (WPML)](https://wordpress.org/plugins/no-category-base-wpml/)
+* [WP No Base Permalink](https://wordpress.org/plugins/wp-no-base-permalink/)
+* [WP Most Popular](https://wordpress.org/plugins/wp-most-popular/)
+* [Multiple Featured Images](https://wordpress.org/plugins/multiple-featured-images/)
+
+#### Social Media Share
+
+* [Simple Share Buttons Adder](https://wordpress.org/plugins/simple-share-buttons-adder/)
+* [Social Share Buttons - Social Pug](https://wordpress.org/plugins/social-pug/)
+* [Social Count Plus](https://wordpress.org/plugins/social-count-plus/)
+* [Share Buttons by Add This](https://wordpress.org/plugins/addthis/)
+* [Social Counter for WordPress - AccessPress Social Counter](https://wordpress.org/plugins/accesspress-social-counter/)
+
+#### Social Media Tags
+
+* [Social Meta by Brozzme](https://wordpress.org/plugins/wp-social-meta-by-brozzme/)
+* [Meta Tags by DivPusher](https://wordpress.org/plugins/meta-tags/)
+* [Keyword Meta by Appleuser](https://wordpress.org/plugins/keyword-meta/)
+* [Open Graph](https://wordpress.org/plugins/opengraph/)
+* [Content Cards](https://wordpress.org/plugins/content-cards/)
+
+#### Comentarios
+
+* [Akismet](https://wordpress.org/plugins/akismet/)
+* [Disqus Conditional Load](https://wordpress.org/plugins/disqus-conditional-load/)
+* [Disqus Comment System](https://wordpress.org/plugins/disqus-comment-system/)
+* [WordPress Social Comments Plugin for Facebook Comments, Google+ Comments, Disqus Comments](https://wordpress.org/plugins/heateor-social-comments/)
+* [WordPress Social Share, Social Login and Social Comments Plugin – Super Socializer](https://wordpress.org/plugins/super-socializer/)
+
+#### Campos adicionales
+
+* [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/)
+* [Meta Box](https://metabox.io/)
+
+#### Personalización de la página de Login
+
+* [Custom Login Page Customizer](https://wordpress.org/plugins/login-customizer/)
+* [WP Customize Login Page](https://wordpress.org/plugins/wp-customize-login-page/)
+* [Customize WordPress Login Page](https://wordpress.org/plugins/admin-custom-login/)
+* [Custom Login Page by SeedProd](https://wordpress.org/plugins/custom-login-page-wp/)
+
+#### Paginación
+
+* [WP-PageNavi](https://wordpress.org/plugins/wp-pagenavi/)
+* [Infinite Scroll](http://www.infinite-scroll.com/)
+* [Infinite Scroll and Load More Ajax Pagination](https://wordpress.org/plugins/infinite-scroll-and-load-more-ajax-pagination/)
+
+#### Traducciones
+
+* [Loco Translate](https://wordpress.org/plugins/loco-translate/)
+* [WP Translate – Translate WordPress](https://wordpress.org/plugins/wp-translate/)
+* [TranslatePress – Translate Multilingual sites](https://wordpress.org/plugins/translatepress-multilingual/)
+
+#### Menús
+
+* [Max Mega Menu](https://wordpress.org/plugins/megamenu/)
+* [WP Mobile Menu](https://wordpress.org/plugins/mobile-menu/)
+* [Responsive Menu](https://wordpress.org/plugins/responsive-menu/)
+
+#### Cookies
+
+* [Cookie Consent](https://wordpress.org/plugins/uk-cookie-consent/)
+* [Cookie Bar](https://wordpress.org/plugins/cookie-bar/)
+
+#### Gestores de archivos
+
+* [WP File Manager](https://wordpress.org/plugins/wp-file-manager/)
+* [File Manager](https://wordpress.org/plugins/file-manager/)
+
+#### Servicios de Google
+
+* [Google Analytics for WordPress](https://es.wordpress.org/plugins/analytics-for-wp/)
+* [Google Analytics](https://wordpress.org/plugins/googleanalytics/)
+* [Google Analytics by MonsterInsights](https://wordpress.org/plugins/google-analytics-for-wordpress/)
+* [Google Analytics Dashboard for WP (GADWP)](https://wordpress.org/plugins/google-analytics-dashboard-for-wp/)
+* [WP Google Fonts](https://wordpress.org/plugins/wp-google-fonts/)
+* [Google Map](https://wordpress.org/plugins/gmap-embed/)
+* [Google Map](https://wordpress.org/plugins/wd-google-maps/)
+* [YouTube Embed, Playlist and Popup](https://wordpress.org/plugins/youtube-video-player/)
+* [YouTube EmbedPlus](https://wordpress.org/plugins/youtube-embed-plus/)
+* [Translate WordPress with GTranslate](https://wordpress.org/plugins/gtranslate/)
+
+#### Listas de correo
+
+* [Email Subscribers & Newsletters](https://wordpress.org/plugins/email-subscribers/)
+* [MailChimp for WP](https://wordpress.org/plugins/mailchimp-for-wp/)
+* [MailPoet Newsletters](https://wordpress.org/plugins/wysija-newsletters/)
+
+#### Inserción de código
+
+* [Insert PHP](https://wordpress.org/plugins/insert-php/)
+* [Easy Custom Css/Js](https://wordpress.org/plugins/easy-custom-cssjs/)
+* [Simple Custom CSS](https://wordpress.org/plugins/simple-custom-css/)
+* [Simple Custom CSS and JS](https://wordpress.org/plugins/custom-css-js/)
+* [Sublime Custom CSS Editor](https://wordpress.org/plugins/sublime-custom-css-editor/)
+* [Sublime Custom JS Editor](https://wordpress.org/plugins/sublime-custom-js-editor/)
+* [Ajax Custom CSS/JS](https://wordpress.org/plugins/ajax-awesome-css/)
+* [WP-SCSS](https://wordpress.org/plugins/wp-scss/)
+
+#### Roles y usuarios
+
+* [Paid Memberships Pro](https://wordpress.org/plugins/paid-memberships-pro/)
+* [User Roles and Capabilities](https://wordpress.org/plugins/user-roles-and-capabilities/)
+* [User Groups](https://wordpress.org/plugins/user-groups/)
+
+#### Foros y comunidades
+
+* [BuddyPress](https://wordpress.org/plugins/buddypress/)
+* [bbPress](https://wordpress.org/plugins/bbpress/)
+
+#### Comercio electrónico
+
+* [WooCommerce](https://wordpress.org/plugins/woocommerce/)
