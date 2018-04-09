@@ -249,3 +249,103 @@ Son contenidos que difícilmente van a cambiar, por ejemplo la sección de conta
 #### Comercio electrónico
 
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/)
+
+##   Clase 5: Optimización
+
+### SEO
+
+**Search Engine Optimization**  (Optimización en Motores de Búsqueda): Como los motores de busqueda indexan los sitios y sus urls.
+
+Implica:
+
+* Indexación
+* SERP (**Search Engine Reults Page**)
+* URL
+* Keywords
+
+Adicionalmente en WordPress implica, uso correcto de:
+  * Paginación
+  * Taxonomía
+  * Entradas
+  * Páginas
+  * Categorías
+  * Etiquetas
+  * Páginas de Autor
+
+**El problemas por excelencia: CONTENIDO DUPLICADO.**
+
+URLs diferentes para un mismo recurso. Páginas que suelen compartir el mismo contenido en WordPress:
+
+* Categorías y etiquetas.
+* Categorías y author.
+* Categorías y paginación.
+* Home y archivos del mes.
+* Entradas con comentarios paginados.
+
+**Soluciones:**
+
+* Una categoría por entrada.
+* Usar etiquetas con cautela, que existan claras diferencias entre éstas y las categorías.
+* Si varias personas colaboran en el sitio ten una guía de contenido para la correcta asignación de etiquetas y categorías. Así evitaras el sobreuso.
+* Indexa al autor cuando existan más de uno generando contenido.
+* Usa urls canónicas.
+
+#### Plugins SEO
+
+* [All in One SEO Pack](https://es.wordpress.org/plugins/all-in-one-seo-pack/)
+* [Jetpack by WordPress.com](https://wordpress.org/plugins/jetpack/)
+* [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/)
+* [WP Meta SEO](https://es.wordpress.org/plugins/wp-meta-seo/)
+* [Redirection](https://es.wordpress.org/plugins/redirection/)
+* [Broken Link Checker](https://es.wordpress.org/plugins/broken-link-checker/)
+* [itemprop WP for SERP/SEO Rich snippets](https://wordpress.org/plugins/itempropwp/)
+
+### WPO
+
+**Web Performance Optimization** u optimización del rendimiento web son técnicas que se encargan de optimizar el tiempo de carga de una web.
+
+El término **WPO** se dio a conocer de forma masiva a raíz de la incorporación del "***landing page load time***" al algoritmo de Google en 2008, en el que se afirmaba que la velocidad de carga de un sitio era uno de los factores que el buscador tomaba en cuenta a la hora de posicionar las páginas en sus **SERP's**.
+
+Todos los CMS suelen estar **poco optimizados** en este aspecto por lo que debes cuidar los siguientes aspectos:
+
+* Tu sitio debe cargar en menos de 3 segundos.
+* Control del ***Time To First Byte - TTFB***, que es el tiempo que tarda el servidor en comenzar a enviar contenido. Se puede afectar por rendimiento de **hosting** o **programación**.
+* Testea las velocidades de toda la web: home, páginas, entradas, búsquedas, productos, perfiles, etc.
+* Cachea el contenido, todo irá mucho más rápido y los recursos del servidor disminuirán.
+* Habilita el GZip (con esto se mejora entre un 30% y un 70%).
+* Optimizar las imágenes antes de subirlas a la web.
+* Minificar código (CSS, JS y HTML).
+* Utilizar recursos asíncronos.
+* Usa **CDN's**, si paralelizas la carga y repartes la información puedes agilizar la velocidad de la web.
+* Eliminar los errores del cliente 4XX y del servidor 5XX.
+
+#### Plugins WPO
+
+* [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
+* [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)
+* [Autoptimize](https://wordpress.org/plugins/autoptimize/)
+* [P3 (Plugin Performance Profiler)](https://es.wordpress.org/plugins/p3-profiler/)
+
+### Seguridad
+
+* Mantén actualizado el core, los plugins y los themes  de WordPress.
+* Elimina los plugins y themes innecesarios.
+* Haz un BackUp de tu base de datos y de tus archivos periódicamente.
+* Utiliza una contraseña difícil.
+* Cambia el prefijo de la Base de Datos.
+* Asígnale los permisos correctos a las carpetas de tu servidor.
+* Evita la exploración de las carpetas.
+* Protege el archivo wp-config.php.
+* No muestres la versión de tu WordPress.
+
+#### Plugins Seguridad
+
+* [All In One WP Security & Firewall](https://wordpress.org/plugins/all-in-one-wp-security-and-firewall/)
+* [Duplicator](https://wordpress.org/plugins/duplicator/)
+* [iThemes Security (anteriormente Better WP Security)](https://es.wordpress.org/plugins/better-wp-security/)
+* [Simple Optimizer](https://wordpress.org/plugins/simple-optimizer/)
+* [Sucuri Security](https://es.wordpress.org/plugins/sucuri-scanner/)
+* [BackWPup - WordPress Backup Plugin](https://wordpress.org/plugins/backwpup/)
+* [Backup & Restore Dropbox](https://es.wordpress.org/plugins/dropbox-backup/)
+* [Brozzme DB Prefix](https://es.wordpress.org/plugins/brozzme-db-prefix-change/)
+* [WP Limit Login Attempts](https://es.wordpress.org/plugins/wp-limit-login-attempts/)
