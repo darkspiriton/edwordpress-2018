@@ -259,7 +259,7 @@ Son contenidos que difícilmente van a cambiar, por ejemplo la sección de conta
 Implica:
 
 * Indexación
-* SERP (**Search Engine Reults Page**)
+* SERP (**Search Engine Results Page**)
 * URL
 * Keywords
 
