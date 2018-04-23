@@ -349,3 +349,7 @@ Todos los CMS suelen estar **poco optimizados** en este aspecto por lo que debes
 * [Backup & Restore Dropbox](https://es.wordpress.org/plugins/dropbox-backup/)
 * [Brozzme DB Prefix](https://es.wordpress.org/plugins/brozzme-db-prefix-change/)
 * [WP Limit Login Attempts](https://es.wordpress.org/plugins/wp-limit-login-attempts/)
+
+##  Proyecto Final:
+
+En este repositorio se agrega un archivo **`installer.php`** y un paquete **`.zip`**, con dichos archivos puedes exportar el sitio de la clase final con ayuda del plugin [Duplicator](https://wordpress.org/plugins/duplicator/).
